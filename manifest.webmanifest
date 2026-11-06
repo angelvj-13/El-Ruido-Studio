@@ -1,1 +1,1 @@
-{"name":"El Ruido · Studio","short_name":"El Ruido","description":"Tu estudio creativo para producir el cortometraje El Ruido","start_url":"./","scope":"./","display":"standalone","background_color":"#faf7ef","theme_color":"#17232e","icons":[{"src":"icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}]}
+{"name":"El Ruido · Studio","short_name":"El Ruido","start_url":"./","scope":"./","display":"standalone","background_color":"#f7f2e9","theme_color":"#1c2b39","icons":[{"src":"icon.svg","sizes":"any","type":"image/svg+xml"}]}
